@@ -1,0 +1,11 @@
+"PaintBallz"
+{
+	"base"		"base"
+	"title"		"PaintBallz"
+	"maps"		"arena_lumberyard"
+	"menusystem"	"1"
+	"settings"
+	{
+
+	}
+}
